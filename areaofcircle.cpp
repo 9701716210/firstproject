@@ -8,6 +8,7 @@ int main()
 	cout<<"Enter the radius:";
 	cin>>r;
 	cout<<"The area of the circle is:"<<area(r);
+        cout<<"The area of the circle is:"<<area(r);
 	
 }
 float area(int r,const float pi)
